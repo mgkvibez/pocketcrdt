@@ -1,0 +1,13 @@
+name: pocketcrdt
+description: Zero-backend, offline-first CRDT sync for Flutter/SQLite apps. Built for flaky networks.
+version: 0.1.0
+repository: https://github.com/mgkvibez/pocketcrdt
+issue_tracker: https://github.com/mgkvibez/pocketcrdt/issues
+license: MIT
+
+environment:
+  sdk: ^3.2.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
